@@ -1,6 +1,3 @@
-# Libraries Required
-reshape2, dplyr, and data.table
-
 # CodeBook Description
 This document is a codebook that provides descriptions of the variables, the data, and all transformations and work that I performed to clean up the data.
 
